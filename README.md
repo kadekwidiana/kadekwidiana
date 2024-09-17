@@ -2,6 +2,7 @@
 
 <p align="left">My name is Kadek Widiana and I'm a Programmer, from Bali, Indonesia</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadekwidiana&label=Profile%20views&color=0e75b6&style=flat-square" alt="kadekwidiana" /> </p>
 
 <h2 align="left">About me</h2>
 
